@@ -16,7 +16,7 @@ resultado = pd.merge(grupo_enfermedad, total_por_sexo, on='Sexo')
 resultado['Porcentaje'] = (resultado['Cantidad'] / resultado['Total']) * 100
 
 
-print(resultado)
+print(resultado,"polla")
 
 
 plt.figure(figsize=(10, 6))
