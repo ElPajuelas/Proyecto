@@ -18,7 +18,7 @@ enfermedades = {
         "Síntomas": "Sed excesiva, micción frecuente, hambre extrema, pérdida de peso",
         "Diagnóstico": "Pruebas de glucosa en sangre, A1C",
         "Tratamiento": "Insulina, medicamentos, dieta, ejercicio",
-        "link": "hola"
+        "link": "holacrdsadsadwdack"
         
         },
     "hipertension": {
