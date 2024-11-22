@@ -30,7 +30,7 @@ enfermedades = {
         "link": "como vas"
     },
     "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
@@ -38,7 +38,7 @@ enfermedades = {
         "link": "como vas"
     },
      "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
@@ -46,7 +46,7 @@ enfermedades = {
         "link": "como vas"
     },
      "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
@@ -54,7 +54,7 @@ enfermedades = {
         "link": "como vas"
     },
      "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
@@ -62,7 +62,7 @@ enfermedades = {
         "link": "como vas"
     },
      "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
@@ -70,21 +70,21 @@ enfermedades = {
         "link": "como vas"
     },
      "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
         "Tratamiento": "Medicamentos, dieta baja en sal, ejercicio, control del estrés",
         "link": "como vas"
     }, "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
         "Tratamiento": "Medicamentos, dieta baja en sal, ejercicio, control del estrés",
         "link": "como vas"
     }, "leucemia": {
-         "Nombre": "Hipertensión",
+        "Nombre": "Hipertensión",
         "Causa": "Genética, dieta, estilo de vida, condiciones médicas subyacentes",
         "Síntomas": "Generalmente asintomática, dolores de cabeza, dificultad para respirar",
         "Diagnóstico": "Medición de la presión arterial",
